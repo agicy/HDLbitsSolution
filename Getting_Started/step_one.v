@@ -1,3 +1,3 @@
 module top_module( output one );
-    assign one = [fixme];
+    assign one = 1b'1;
 endmodule
