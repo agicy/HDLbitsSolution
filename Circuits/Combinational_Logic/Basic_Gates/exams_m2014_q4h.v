@@ -1,5 +1,5 @@
 module top_module (
     input in,
     output out);
-    assign out = 1'b0 ;
+    assign out = in;
 endmodule
